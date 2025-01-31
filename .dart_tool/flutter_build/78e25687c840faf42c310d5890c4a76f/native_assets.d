@@ -1,1 +1,0 @@
- /Users/macmini/development/small_wiki_genshin/.dart_tool/flutter_build/78e25687c840faf42c310d5890c4a76f/native_assets.yaml: 
